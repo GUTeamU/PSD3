@@ -1,0 +1,145 @@
+Feedback form for PSD3 group exercise 1
+From Jeremy.Singer@glasgow.ac.uk
+Friday 4 October 2013
+---------------------------------------
+
+TEAM U
+
+METADATA
+
+Does the document clearly identify team ID, member names
+and contact details?
+
+> team id and names clear at top of first page.
+> However no contact details given.
+
+Does the document have a version number or date?
+
+
+> Date given. Also consider using a version number. 
+> (There are LaTeX packages to incorporate version control
+> metadata directly into your built dvi/pdf files.)
+
+Does the document clearly state its purpose?
+
+> title is clear. However a brief abstract or 'Document Objectives'
+> section at the start might be very helpful.
+
+GENERAL FORMATTING
+
+Is the document neatly laid out?
+
+> yes. Well formatted and clear to read.
+> Commendation for using LaTeX.
+
+Is the document relatively free of grammatical and 
+typographic errors?
+
+> yes. good.
+
+Are the various sections clearly labelled?
+
+> Yes, each section has a clear label and a number. Excellent.
+
+TEAM ORGANIZATION
+
+Is the proposed team organization clearly presented?
+
+> Proposed to use Agile scrum approach.
+
+Is it justified in a reasonable manner?
+
+> Yes - clear justification in sect 1. Great.
+
+ROLES
+
+Are the roles appropriate?
+
+> yes, scrum roles all appropriate.
+
+Is each role clearly explained?
+
+> Yes, description of tasks for each role is given.
+> good.
+
+ASSIGNMENT
+
+Is there a reasonable basis for each role/person assignment?
+
+> Excellent justification for why each team member has been
+> assigned to particular roles. Great! Drawing on experience
+> and previous study. Well done.
+> No-one is assigned to customer representative - this will
+> be necessary.
+
+
+COMMUNICATION
+
+Is there at least one synchronous comms channel?
+
+> no. All the online collaborative tools you mentioned
+> appear to be asynchronous? Or can Asana be used
+> synchronously? Does it have a chat facility?
+
+Is there at least one asynchronous comms channel?
+
+> yes. Note it might be worth ordering the priority of your
+> comms channels, so team members know which channel to use
+> for which purposes - some of them are only fallbacks perhaps.
+
+Will the team meet at least once per week?
+
+> no mention of face to face meetings (except for passing
+> reference in scrum master role description). This should
+> be an important part of your comms strategy. Mention
+> frequency of f2f meetings, and location.
+
+Have the team planned to capture a record of comms?
+
+> You talk about the Asana system. Is this how you will record
+> minutes of meetings, important discussions and decisions? Also
+> Actions Arising? Be explicit about this.
+
+How will the team re-establish contact with absent/unreliable
+members?
+
+> No clear strategy of how to deal with this. You need a protocol
+> for getting in touch with 'missing' members.
+
+RISKS
+
+Does the team have reasonable avoidance strategy for conflict?
+
+> democracy followed by compromise. Probably ok. Other
+> options you mention might be asking your team supervisor to mediate,
+> (good idea) or
+> having a 'cooling off' period. Or let one team member with more
+> experience have the 'deciding vote'.
+
+Mitigation strategy for conflict?
+
+> See above.
+
+Mitigation strategy for team member dropout?
+
+> Yes, workload redistribution - good. Possibly have each member
+> buddy up with one other member - to understand that person's roles
+> and tasks fully, in case that person leaves the team.
+
+Mitigation strategy for team member addition?
+
+> nothing stated on this. It might happen!
+
+Any other risks identified?
+
+No.
+
+
+GENERAL COMMENTS
+
+
+A well structured and detailed account. Great description of Scrum.
+Some more work needed on comms strategy - 
+Please address the comments above, and revise your
+team organization document as the semester continues.
+Final version due in end-of-semester portfolio.
