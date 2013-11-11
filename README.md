@@ -8,7 +8,7 @@
 
 1. Clone the repository
 
-2. Create a virtualenv for the project:
+2. Create and activate a virtualenv for the project:
 ```bash
 virtualenv VENV
 source VENV/bin/activate
