@@ -1,0 +1,122 @@
+[[Image(http://goo.gl/8Qi7K9)]]
+
+
+== '''D2 : RISK ASSESSMENT''' ==
+
+
+|| Deliverable ID || D2 ||
+|| Deliverable Title || Risk Assessment ||
+|| Project || ||
+|| Team || U ||
+|| Authors ||  Michael Cromie ||
+|| || Fraser Leishman ||
+|| || Edvin Malinovskis ||
+|| || Andrew Mcdonald ||
+|| || Matthew Paterson ||
+|| Deliverable Date || ||
+|| File Name || [http://hoved.dcs.gla.ac.uk/u/trac/wiki/riskdoc] ||
+|| Version || 2 ||
+
+
+'''Team U Risk Assessment Document'''
+
+
+== Description of Severities ==
+##40cc1f## Low ## - Something of inconvenience, relatively easy to overcome. These issues should be easily rectified and the overall project shouldn't be affected.
+
+#f69006## Moderate ## - A slightly problematic issue, something that may take some time or resources to overcome. In some cases these problems may affect the end product, but not significantly.
+
+##FF0000## Severe ## - These problems will be very difficult to overcome, sometimes costing a great deal of time or money. Severe issues will almost definitely delay the project or at least lessen the quality of overall software. 
+
+
+
+
+||= '''Risk Id''' =|| '''R.1''' ||
+||= Category =|| Requirements ||	
+||= Description =|| We opt to do a demonstration that is too difficult or physically impossible for us to get the robot to perform ||
+||= Probability =|| Low-Medium ||
+||= Impact =|| Reduces the quality of the final product, which is the demonstration and project ||
+||= Severity =|| Moderate (the portion of credits awarded to the Software design, implementation, and documentation of the product is 0.4 credits) ||
+||= Status =|| Identified ||
+||= Controls =|| Discuss complication versus spectacle  balance with team supervisor, adjust as necessary ||
+[[BR]]
+||= '''Risk Id''' =|| '''R.2''' ||
+||= Category =|| Skills ||	
+||= Description =|| Programming the Robot Operating System proves too difficult for one or more of our team members ||
+||= Probability =|| Medium ||
+||= Impact =|| Reduces effectiveness of team in complete the desired tasks ||
+||= Severity =|| Low (other team members can pick up the slack and help out the team members having difficulty) ||
+||= Status =|| Identified ||
+||= Controls =|| Discuss with each team member how well their grasp of the R.O.S is ||
+[[BR]]
+||= '''Risk Id''' =|| '''R.3''' ||
+||= Category =|| Technical ||	
+||= Description =|| A bug in our design or in the R.O.S causes for the robot to go out of control ||
+||= Probability =|| Very Low ||
+||= Impact =|| Possible damage to the robot and robot housing infrastructure (Boyd Orr Building). Possible human cost ||
+||= Severity =|| Severe (this would hinder the progress of our project should the damages be irreparable ||
+||= Status =|| Identified ||
+||= Controls =|| Thoroughly test software using simulation to ensure it behaves as expected ||
+[[BR]]
+||= '''Risk Id''' =|| '''R.4''' ||
+||= Category =|| Planning ||	
+||= Description =|| We spend a disproportionate amount of time on planning stage and don’t leave enough for the implementation ||
+||= Probability =|| Medium-High ||
+||= Impact =|| Leaves not enough time to implement the demonstration and so the quality of the final product suffers ||
+||= Severity =|| Moderate (the portion of credits awarded to the Software design, implementation, and documentation of the product is 0.4 credits) ||
+||= Status =|| Identified ||
+||= Controls =|| Discuss work balance with team supervisor, adjust as necessary ||
+[[BR]]
+||= '''Risk Id''' =|| '''R.5''' ||
+||= Category =|| Political ||	
+||= Description =|| Team members do not work efficiently together ||
+||= Probability =|| Medium ||
+||= Impact =|| Lack of understanding and coherence between team members causing incomplete work and poor team moral ||
+||= Severity =|| Low - Moderate (Working together for several months and a breakdown in communications will result in the quality of the final product suffering) ||
+||= Status =|| Identified ||
+||= Controls =|| Regular face-to-face meetings to establish what each team member is working on and how their work will integrate with the rest of the project ||
+[[BR]]
+||= '''Risk Id''' =|| '''R.6''' ||
+||= Category =|| Political ||	
+||= Description =|| A student from another team is introduced into our team ||
+||= Probability =|| Low-Medium ||
+||= Impact =|| Time spent overcoming personnel changes puts the team off track of the time plan and delays the end product ||
+||= Severity =|| Low (The team would be able to re-allocate roles to include the new member) ||
+||= Status =|| Identified ||
+||= Controls =|| The agile model allows team positions to be easily swapped mid way through a project, making this problem less of an issue ||
+[[BR]]
+||= '''Risk Id''' =|| '''R.7''' ||
+||= Category =|| Political ||	
+||= Description =|| A student leaves our team ||
+||= Probability =|| Low ||
+||= Impact =|| The increased workload on each remaining member of the team slows down the overall process and delays the end product ||
+||= Severity =|| Moderate ||
+||= Status =|| Identified ||
+||= Controls =|| The agile model allows team positions to be easily swapped mid way through a project, making this problem less of an issue ||
+[[BR]]
+||= '''Risk Id''' =|| '''R.8''' ||
+||= Category =|| Planning ||	
+||= Description =|| Lack of formality in the scheduling of tasks ||
+||= Probability =|| Medium-High(Due to Agile model ||
+||= Impact =|| Failure to adhere to deadlines of tasks and work packages due to a lack of strict timetabling and enforced deadlines ||
+||= Severity =|| Low - Moderate (Deadlines missed causing a backlog of work which would need to be addressed) ||
+||= Status =|| Identified ||
+||= Controls =|| Maintain order at all stages of the development process using various tools to aid in the management and organisation of tasks, e.g. Asana. ||
+[[BR]]
+||= '''Risk Id''' =|| '''R.9''' ||
+||= Category =|| Technical ||	
+||= Description =|| Outside parties having access to the robot ||
+||= Probability =|| Medium ||
+||= Impact =|| As other people are working with the robot in parallel with our project, the team is not in complete control over the functionality and overall condition of the robot ||
+||= Severity =|| Moderate (Robot could could be damaged or altered in a way that could affect and the scope and hence overall quality of the final product) ||
+||= Status =|| Identified ||
+||= Controls =|| Identify and keep in regular contact with the other parties to discuss any issues that may have arisen while they were interacting with the robot/system ||
+[[BR]]
+||= '''Risk Id''' =|| '''R.10''' ||
+||= Category =|| Political ||	
+||= Description =|| The customer changes the project specification mid-way into the project ||
+||= Probability =|| Low ||
+||= Impact =|| Depending on severity, overall progress may have to be undone and restarted ||
+||= Severity =|| Moderate (re-doing considerable amounts of work could delay the project) ||
+||= Status =|| Identified ||
+||= Controls =|| The customer representative will work closely with the customer ||
