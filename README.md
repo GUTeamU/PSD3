@@ -20,7 +20,7 @@ pip install --no-deps -r requirements.txt
 ```
 
 
-#RUNING
+#RUNNING
 
 1. Activate the virtualenv:
 ```bash
