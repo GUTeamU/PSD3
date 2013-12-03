@@ -11,7 +11,7 @@ Does the document clearly identify team ID, member names
 and contact details?
 
 > team id and names clear at top of first page.
-> However no contact details given.
+> However no contact details given.						 **fixed
 
 Does the document have a version number or date?
 
@@ -23,7 +23,7 @@ Does the document have a version number or date?
 Does the document clearly state its purpose?
 
 > title is clear. However a brief abstract or 'Document Objectives'
-> section at the start might be very helpful.
+> section at the start might be very helpful.					**fixed	
 
 GENERAL FORMATTING
 
@@ -69,7 +69,7 @@ Is there a reasonable basis for each role/person assignment?
 > Excellent justification for why each team member has been
 > assigned to particular roles. Great! Drawing on experience
 > and previous study. Well done.
-> No-one is assigned to customer representative - this will
+> No-one is assigned to customer representative - this will					**fixed
 > be necessary.
 
 
@@ -77,13 +77,13 @@ COMMUNICATION
 
 Is there at least one synchronous comms channel?
 
-> no. All the online collaborative tools you mentioned
+> no. All the online collaborative tools you mentioned						**fixed
 > appear to be asynchronous? Or can Asana be used
 > synchronously? Does it have a chat facility?
 
 Is there at least one asynchronous comms channel?
 
-> yes. Note it might be worth ordering the priority of your
+> yes. Note it might be worth ordering the priority of your					**fixed
 > comms channels, so team members know which channel to use
 > for which purposes - some of them are only fallbacks perhaps.
 
